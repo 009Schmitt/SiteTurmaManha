@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0fIMa8C7l/XaTMLyap4GoTMh08sCVZq8Yyh3tju5GAsHMv7pgVDIqd4CqJmeIWtmP3G1CbKbBu2ty6JfTVMQAg==",
+  "dgSpecHash": "obQIHtdTnaTsHO3RmIXRGUvc+5/jMov5PZZnp4qJVXFw1Um0BkZ17VUixjaw/T7525FFJLUPmMk2fra3KdeDug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victor.schmitt\\source\\repos\\SiteTurmaManha\\SiteTurmaManha.csproj",
+  "projectFilePath": "C:\\Users\\victor.schmitt\\Documents\\GitHub\\SiteTurmaManha\\SiteTurmaManha\\SiteTurmaManha.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victor.schmitt\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\victor.schmitt\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

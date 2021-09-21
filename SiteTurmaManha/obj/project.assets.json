@@ -497,11 +497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victor.schmitt\\source\\repos\\SiteTurmaManha\\SiteTurmaManha.csproj",
+      "projectUniqueName": "C:\\Users\\victor.schmitt\\Documents\\GitHub\\SiteTurmaManha\\SiteTurmaManha\\SiteTurmaManha.csproj",
       "projectName": "SiteTurmaManha",
-      "projectPath": "C:\\Users\\victor.schmitt\\source\\repos\\SiteTurmaManha\\SiteTurmaManha.csproj",
+      "projectPath": "C:\\Users\\victor.schmitt\\Documents\\GitHub\\SiteTurmaManha\\SiteTurmaManha\\SiteTurmaManha.csproj",
       "packagesPath": "C:\\Users\\victor.schmitt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victor.schmitt\\source\\repos\\SiteTurmaManha\\obj\\",
+      "outputPath": "C:\\Users\\victor.schmitt\\Documents\\GitHub\\SiteTurmaManha\\SiteTurmaManha\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -522,11 +522,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\victor.schmitt\\source\\repos\\BAL\\BAL.csproj": {
-              "projectPath": "C:\\Users\\victor.schmitt\\source\\repos\\BAL\\BAL.csproj"
+            "C:\\Users\\victor.schmitt\\Documents\\GitHub\\SiteTurmaManha\\BAL\\BAL.csproj": {
+              "projectPath": "C:\\Users\\victor.schmitt\\Documents\\GitHub\\SiteTurmaManha\\BAL\\BAL.csproj"
             },
-            "C:\\Users\\victor.schmitt\\source\\repos\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\victor.schmitt\\source\\repos\\DAL\\DAL.csproj"
+            "C:\\Users\\victor.schmitt\\Documents\\GitHub\\SiteTurmaManha\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\victor.schmitt\\Documents\\GitHub\\SiteTurmaManha\\DAL\\DAL.csproj"
             }
           }
         }

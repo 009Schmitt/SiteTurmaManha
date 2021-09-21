@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XKGZvJLr1FGeq8OZQoPa4evfH/Vr90VY29TZe7+VAk1UiY9t4mmEczioHxV98TmzVjiNY5h6rvGBTlEHusugxQ==",
+  "dgSpecHash": "F0jD/0e7N71zuOQ6la+6x83uL4cHMiGSAULtg1J9wkZk2a3JvSfUlrrP76bXavdvCTSu9N4cwc3ZHlZIRg0jpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victor.schmitt\\source\\repos\\BAL\\BAL.csproj",
+  "projectFilePath": "C:\\Users\\victor.schmitt\\Documents\\GitHub\\SiteTurmaManha\\BAL\\BAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victor.schmitt\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\victor.schmitt\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

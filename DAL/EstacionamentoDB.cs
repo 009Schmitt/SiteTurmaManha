@@ -26,16 +26,7 @@ namespace DAL
             }
             catch (Exception e)
             {
-                if (ConnectionString.Connection.State == System.Data.ConnectionState.Open)
-                {
-                    ConnectionString.Close();
-                }
-                return new Response
-                {
-                    Executed = false,
-                    ErrorMessage = e.Message,
-                    Exception = e
-                };
+                return Confer(e);
             }
         }
 
