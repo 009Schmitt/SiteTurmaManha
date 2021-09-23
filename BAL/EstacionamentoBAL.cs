@@ -7,7 +7,7 @@ namespace BAL
     {
         public static Response Insert(Estacionamento vaga)
         {
-            if (!string.IsNullOrEmpty(vaga.Placa) && vaga.Placa.Length < 8)
+            if (Checker.StringChecker(vaga.Placa,7))
             {
                 return EstacionamentoDB.Insert(vaga);
             }

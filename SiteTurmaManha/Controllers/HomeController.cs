@@ -36,7 +36,12 @@ namespace SiteTurmaManha.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-        public IActionResult CadastroVaga(string placa,string horaEntrada)
+        public IActionResult CadastroVaga()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult AuthVaga(string placa,string horaEntrada)
         {
             Estacionamento vaga = new Estacionamento
             {
@@ -46,11 +51,11 @@ namespace SiteTurmaManha.Controllers
             Response resp = EstacionamentoBAL.Insert(vaga);
             if (resp.Executed)
             {
-                // volta pra cadastro
+                return RedirectToAction("Index", "Home");
             }
             else
             {
-                // volta pra cadastro
+                return RedirectToAction("CadastroVaga", "Home");
             }
         }
     }
